@@ -1,0 +1,8 @@
+*.zip
+*.tar.gz
+*.egg-info
+
+/dist
+/build
+/tests/venv-*
+/venv
