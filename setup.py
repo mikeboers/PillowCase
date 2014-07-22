@@ -47,8 +47,8 @@ has_something, has_pillow = detect_installed()
 setup(
     
     name='pillowcase',
-    version='1.2.0',
-    description='A stub that satisfies PIL==1.1.7 and stops PIL from fighting with Pillow',
+    version='2.0.0',
+    description='Smooths out installation issues due to the PIL/Pillow fork.',
 
     url='http://github.com/mikeboers/PillowCase',
     
